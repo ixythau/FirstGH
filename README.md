@@ -1,2 +1,2 @@
 # FirstGH
-Playing around with github and seeing what I can do
+Experimenting with developing MIT 7.00x via literate programming!
